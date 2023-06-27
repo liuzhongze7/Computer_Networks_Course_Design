@@ -1,9 +1,13 @@
+---
+typora-copy-images-to: ./picture
+---
+
 # Computer_Networks_Course_Design
  计算机网络课程设计——xx学校组网方案
 
 - 网络拓扑结构：根据需求分析，设计了一个分层的网络结构，包括核心层、汇聚层和接入层，以及数据中心区域和无线网络区域。网络拓扑结构图如下：  
 
-![image-20230627140028329](G:\课程学习\计算机网络\Computer_Networks_Course_Design\picture\image-20230627140028329.png)
+![](./picture/image-20230627140028329-1687846110005-1.png)
 
 
 
